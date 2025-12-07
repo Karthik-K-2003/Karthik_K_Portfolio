@@ -57,31 +57,40 @@ Flask_Portfolio/
 
 ⚙️ Setup Instructions
 -----------------------------------------
-```bash
 1. Clone the repository
+ ```bash
    git clone https://github.com/Karthik-K-2003/Karthik_K_Portfolio.git
    cd Flask_Portfolio
+```
 
-2. Create virtual environment & activate
+3. Create virtual environment & activate
+```bash
   python -m venv venv
   source venv/bin/activate   # Mac / Linux
   venv\Scripts\activate      # Windows
+```
 
-3. Install dependencies
+4. Install dependencies
+```bash
   pip install -r requirements.txt
+```
 
-4. Configure environment variables
+5. Configure environment variables
+```bash
   Create a .env file in the root folder:
     MAIL_SERVER=smtp.gmail.com
     MAIL_PORT=587
     MAIL_USE_TLS=True
     MAIL_USERNAME=your_email@gmail.com
     MAIL_PASSWORD=your_app_password
+```
 
-5. Run the Flask server
+6. Run the Flask server
+```bash
    python app.py
-
-6. Test the Contact Form
+```
+7. Test the Contact Form
+```bash
    Fill out the contact form → If your SMTP credentials are correct,you will receive an email 🎉
 ```
    
