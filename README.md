@@ -3,7 +3,7 @@
 A modern, responsive personal portfolio website built using Flask, TailwindCSS, HTML, and JavaScript.
 This website showcases my skills, projects, experience, and includes a contact form powered by Flask-Mail / SMTP using secure environment variables.
 
-🚀 Features
+## 🚀 Features
 ----------------------------------------
 🖥️ Fully responsive UI (mobile, tablet & desktop)
 🎨 Clean dark theme with teal accents
@@ -13,8 +13,8 @@ This website showcases my skills, projects, experience, and includes a contact f
 🔐 Secure .env file for email credentials
 ⚡ Fast loading with optimized static assets
 📂 Organized folder structure (templates + static)
+---
 
-```
 
 🛠️ Tech Stack
 ----------------------------------------
