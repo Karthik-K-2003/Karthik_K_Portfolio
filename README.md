@@ -16,18 +16,18 @@ This website showcases my skills, projects, experience, and includes a contact f
 
 
 ## 🛠️ Tech Stack
-1. Frontend
+**1. Frontend**
  - HTML5
  - Tailwind CSS
  - Custom CSS
  - JavaScript (interactions)
    
-2. Backend
+**2. Backend**
  - Python
  - Flask
  - Flask-Mail (SMTP integration)
 
-3. Tools
+**3. Tools**
  - Virtual Environment
  - pip (Python package manager)
  - Gmail SMTP (App Passwords)
@@ -56,25 +56,25 @@ Flask_Portfolio/
 ---
 
 ## ⚙️ Setup Instructions
-1. Clone the repository
+**1. Clone the repository**
  ```bash
    git clone https://github.com/Karthik-K-2003/Karthik_K_Portfolio.git
    cd Flask_Portfolio
 ```
 
-3. Create virtual environment & activate
+**3. Create virtual environment & activate**
 ```bash
   python -m venv venv
   source venv/bin/activate   # Mac / Linux
   venv\Scripts\activate      # Windows
 ```
 
-4. Install dependencies
+**4. Install dependencies**
 ```bash
   pip install -r requirements.txt
 ```
 
-5. Configure environment variables
+**5. Configure environment variables**
 ```bash
   Create a .env file in the root folder:
     MAIL_SERVER=smtp.gmail.com
@@ -84,11 +84,11 @@ Flask_Portfolio/
     MAIL_PASSWORD=your_app_password
 ```
 
-6. Run the Flask server
+**6. Run the Flask server**
 ```bash
    python app.py
 ```
-7. Test the Contact Form
+**7. Test the Contact Form**
 ```bash
    Fill out the contact form → If your SMTP credentials are correct,you will receive an email 🎉
 ```
