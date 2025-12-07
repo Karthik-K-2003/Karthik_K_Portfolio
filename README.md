@@ -55,7 +55,7 @@ Flask_Portfolio/
 ⚙️ Setup Instructions
 -----------------------------------------
 1. Clone the repository
-   git clone https://github.com/yourusername/Flask_Portfolio.git
+   git clone https://github.com/Karthik-K-2003/Karthik_K_Portfolio.git
    cd Flask_Portfolio
 
 2. Create virtual environment & activate
