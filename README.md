@@ -5,6 +5,7 @@ This website showcases my skills, projects, experience, and includes a contact f
 
 🚀 Features
 ----------------------------------------
+```bash
 🖥️ Fully responsive UI (mobile, tablet & desktop)
 🎨 Clean dark theme with teal accents
 💼 Projects section with cards
@@ -13,6 +14,7 @@ This website showcases my skills, projects, experience, and includes a contact f
 🔐 Secure .env file for email credentials
 ⚡ Fast loading with optimized static assets
 📂 Organized folder structure (templates + static)
+```
 
 🛠️ Tech Stack
 ----------------------------------------
