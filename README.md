@@ -1,10 +1,9 @@
 🌐 Karthik's Flask Portfolio Website
-----------------------------------------
 A modern, responsive personal portfolio website built using Flask, TailwindCSS, HTML, and JavaScript.
 This website showcases my skills, projects, experience, and includes a contact form powered by Flask-Mail / SMTP using secure environment variables.
+---
 
 🚀 Features
-----------------------------------------
 - 🖥️ Fully responsive UI (mobile, tablet & desktop)
 - 🎨 Clean dark theme with teal accents
 - 💼 Projects section with cards
@@ -17,7 +16,6 @@ This website showcases my skills, projects, experience, and includes a contact f
 
 
 🛠️ Tech Stack
-----------------------------------------
 1. Frontend
  - HTML5
  - Tailwind CSS
@@ -33,10 +31,9 @@ This website showcases my skills, projects, experience, and includes a contact f
  - Virtual Environment
  - pip (Python package manager)
  - Gmail SMTP (App Passwords)
-
+---
 
 📁 Folder Structure
-----------------------------------------
 ```bash
 Flask_Portfolio/
 │
@@ -56,9 +53,9 @@ Flask_Portfolio/
 ├── requirements.txt # Python dependencies
 └── README.md
 ```
+---
 
 ⚙️ Setup Instructions
------------------------------------------
 1. Clone the repository
  ```bash
    git clone https://github.com/Karthik-K-2003/Karthik_K_Portfolio.git
@@ -95,6 +92,7 @@ Flask_Portfolio/
 ```bash
    Fill out the contact form → If your SMTP credentials are correct,you will receive an email 🎉
 ```
+---
    
 🖼️ Screenshots:
   <img width="1895" height="908" alt="Screenshot 2025-11-25 190053" src="https://github.com/user-attachments/assets/644fc16d-b0f9-4f01-b2c2-4b72d9596ef5" />
