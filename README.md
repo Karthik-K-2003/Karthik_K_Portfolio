@@ -32,8 +32,10 @@ This website showcases my skills, projects, experience, and includes a contact f
  - pip (Python package manager)
  - Gmail SMTP (App Passwords)
 
+
 📁 Folder Structure
 ----------------------------------------
+```bash
 Flask_Portfolio/
 │
 ├── static/
@@ -51,9 +53,11 @@ Flask_Portfolio/
 ├── .env             # Email credentials (ignored in Git)
 ├── requirements.txt # Python dependencies
 └── README.md
+```
 
 ⚙️ Setup Instructions
 -----------------------------------------
+```bash
 1. Clone the repository
    git clone https://github.com/Karthik-K-2003/Karthik_K_Portfolio.git
    cd Flask_Portfolio
@@ -79,16 +83,12 @@ Flask_Portfolio/
 
 6. Test the Contact Form
    Fill out the contact form → If your SMTP credentials are correct,you will receive an email 🎉
+```
    
 🖼️ Screenshots:
-   <img width="1896" height="892" alt="Screenshot 2025-11-25 190950" src="https://github.com/user-attachments/assets/61cd09d3-0fff-4c70-ae51-39729b470228" />
-   <img width="1896" height="585" alt="Screenshot 2025-11-25 190938" src="https://github.com/user-attachments/assets/3964f4a7-fb37-4221-8f65-fa523e7b9792" />
-   <img width="1893" height="907" alt="Screenshot 2025-11-25 190903" src="https://github.com/user-attachments/assets/f48797f3-861f-4d97-b897-3ed4474b26d1" />
-   <img width="1894" height="898" alt="Screenshot 2025-11-25 190838" src="https://github.com/user-attachments/assets/dba8d734-352f-4db3-b3dc-20c33c5177a2" />
-   <img width="1895" height="908" alt="Screenshot 2025-11-25 190053" src="https://github.com/user-attachments/assets/644fc16d-b0f9-4f01-b2c2-4b72d9596ef5" />
-
-
-
-
-
+  <img width="1895" height="908" alt="Screenshot 2025-11-25 190053" src="https://github.com/user-attachments/assets/644fc16d-b0f9-4f01-b2c2-4b72d9596ef5" />
+  <img width="1894" height="898" alt="Screenshot 2025-11-25 190838" src="https://github.com/user-attachments/assets/dba8d734-352f-4db3-b3dc-20c33c5177a2" />
+  <img width="1893" height="907" alt="Screenshot 2025-11-25 190903" src="https://github.com/user-attachments/assets/f48797f3-861f-4d97-b897-3ed4474b26d1" />
+  <img width="1896" height="585" alt="Screenshot 2025-11-25 190938" src="https://github.com/user-attachments/assets/3964f4a7-fb37-4221-8f65-fa523e7b9792" />
+  <img width="1896" height="892" alt="Screenshot 2025-11-25 190950" src="https://github.com/user-attachments/assets/61cd09d3-0fff-4c70-ae51-39729b470228" />
 
